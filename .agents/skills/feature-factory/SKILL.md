@@ -45,7 +45,7 @@ Inspect the target repository before selecting a toolchain. Record the selected 
 
 ## Agent roles
 
-Use the focused prompts in `agents/`:
+Use the focused prompts in `../../agents`:
 
 - `specification.md`
 - `planning.md`
